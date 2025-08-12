@@ -12,7 +12,7 @@
     --bg-color: #080808;
     --second-bg-color: #080808;
     --text-color: white;
-    --main-color: aqua;
+     --main-color: rgb(31, 121, 135);
 }
 html{
     font-size: 60%;
@@ -612,4 +612,5 @@ span{
     .project-box img{
         min-width: 42rem;
     }
+
 }
